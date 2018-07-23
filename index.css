@@ -9,7 +9,6 @@ html, body {
 }
 
 html {
-  background: url('http://static.adweek.com/adweek.com-prod/wp-content/uploads/2017/03/rupaul-mainstream-PAGE-2017.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -22,7 +21,7 @@ html {
 
 h1, h2 {
 	color: #0c2735;
-	background-color: rgba(255, 255, 255, .4);
+	background-color: rgba(201, 65, 65, 0.4);
 	text-align: center;
 }
 
@@ -75,7 +74,7 @@ button:hover {
 }
 
 form {
-  background-color: rgba(255, 255, 255, .4);
+  background-color: rgba(17, 2, 2, 0.4);
 }
 
 fieldset {
@@ -186,5 +185,6 @@ label {
 	#score-count {
 		padding-right: 8em;
 		padding-bottom: 2.5em;
+		background-color: rgb(226, 83, 83);
 	}
 }
